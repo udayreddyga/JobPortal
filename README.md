@@ -1,6 +1,6 @@
 # Job Portal
 
-A modern, full-stack Job Portal web application built using **Next.js**, **Firebase**, and **Tailwind CSS**. This project was generated and customized using **Firebase Studio AI**.
+A modern, full-stack Job Portal web application built using **Next.js**, **Firebase**, and **Tailwind CSS**.
 
 ---
 
